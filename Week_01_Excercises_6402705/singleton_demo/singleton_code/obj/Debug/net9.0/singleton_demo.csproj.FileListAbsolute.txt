@@ -1,0 +1,14 @@
+D:\academics\college\Placement\Cognizant\singleton_demo\bin\Debug\net9.0\singleton_demo.exe
+D:\academics\college\Placement\Cognizant\singleton_demo\bin\Debug\net9.0\singleton_demo.deps.json
+D:\academics\college\Placement\Cognizant\singleton_demo\bin\Debug\net9.0\singleton_demo.runtimeconfig.json
+D:\academics\college\Placement\Cognizant\singleton_demo\bin\Debug\net9.0\singleton_demo.dll
+D:\academics\college\Placement\Cognizant\singleton_demo\bin\Debug\net9.0\singleton_demo.pdb
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.AssemblyInfoInputs.cache
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.AssemblyInfo.cs
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.csproj.CoreCompileInputs.cache
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.dll
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\refint\singleton_demo.dll
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.pdb
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\singleton_demo.genruntimeconfig.cache
+D:\academics\college\Placement\Cognizant\singleton_demo\obj\Debug\net9.0\ref\singleton_demo.dll
