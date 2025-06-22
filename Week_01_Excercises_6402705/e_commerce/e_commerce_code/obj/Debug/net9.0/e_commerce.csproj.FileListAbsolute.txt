@@ -1,0 +1,14 @@
+D:\academics\college\Placement\Cognizant\e_commerce\bin\Debug\net9.0\e_commerce.exe
+D:\academics\college\Placement\Cognizant\e_commerce\bin\Debug\net9.0\e_commerce.deps.json
+D:\academics\college\Placement\Cognizant\e_commerce\bin\Debug\net9.0\e_commerce.runtimeconfig.json
+D:\academics\college\Placement\Cognizant\e_commerce\bin\Debug\net9.0\e_commerce.dll
+D:\academics\college\Placement\Cognizant\e_commerce\bin\Debug\net9.0\e_commerce.pdb
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.AssemblyInfoInputs.cache
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.AssemblyInfo.cs
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.csproj.CoreCompileInputs.cache
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.dll
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\refint\e_commerce.dll
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.pdb
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\e_commerce.genruntimeconfig.cache
+D:\academics\college\Placement\Cognizant\e_commerce\obj\Debug\net9.0\ref\e_commerce.dll
