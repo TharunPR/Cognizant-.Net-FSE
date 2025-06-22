@@ -1,0 +1,14 @@
+D:\academics\college\Placement\Cognizant\financial_forecasting\bin\Debug\net9.0\financial_forecasting.exe
+D:\academics\college\Placement\Cognizant\financial_forecasting\bin\Debug\net9.0\financial_forecasting.deps.json
+D:\academics\college\Placement\Cognizant\financial_forecasting\bin\Debug\net9.0\financial_forecasting.runtimeconfig.json
+D:\academics\college\Placement\Cognizant\financial_forecasting\bin\Debug\net9.0\financial_forecasting.dll
+D:\academics\college\Placement\Cognizant\financial_forecasting\bin\Debug\net9.0\financial_forecasting.pdb
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.AssemblyInfoInputs.cache
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.AssemblyInfo.cs
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.csproj.CoreCompileInputs.cache
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.dll
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\refint\financial_forecasting.dll
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.pdb
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\financial_forecasting.genruntimeconfig.cache
+D:\academics\college\Placement\Cognizant\financial_forecasting\obj\Debug\net9.0\ref\financial_forecasting.dll
