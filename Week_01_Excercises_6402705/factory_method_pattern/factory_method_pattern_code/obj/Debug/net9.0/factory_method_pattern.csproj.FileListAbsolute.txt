@@ -1,0 +1,14 @@
+D:\academics\college\Placement\Cognizant\factory_method_pattern\bin\Debug\net9.0\factory_method_pattern.exe
+D:\academics\college\Placement\Cognizant\factory_method_pattern\bin\Debug\net9.0\factory_method_pattern.deps.json
+D:\academics\college\Placement\Cognizant\factory_method_pattern\bin\Debug\net9.0\factory_method_pattern.runtimeconfig.json
+D:\academics\college\Placement\Cognizant\factory_method_pattern\bin\Debug\net9.0\factory_method_pattern.dll
+D:\academics\college\Placement\Cognizant\factory_method_pattern\bin\Debug\net9.0\factory_method_pattern.pdb
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.AssemblyInfoInputs.cache
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.AssemblyInfo.cs
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.csproj.CoreCompileInputs.cache
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.dll
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\refint\factory_method_pattern.dll
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.pdb
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\factory_method_pattern.genruntimeconfig.cache
+D:\academics\college\Placement\Cognizant\factory_method_pattern\obj\Debug\net9.0\ref\factory_method_pattern.dll
